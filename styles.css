@@ -1,0 +1,35 @@
+body {
+  background-color: #1C3879;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lilita One', cursive;
+  font-size: 100px;
+  color: #ffffff;
+  text-shadow: 5px 5px #232931;
+}
+
+p {
+  font-family: 'Pacifico', cursive;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+div {
+  display: inline-block;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+footer {
+  font-family: 'Lilita One', cursive;
+  font-size: 18px;
+  color: #ffffff;
+  padding-top: 4rem;
+}
+
+footer a {
+  text-decoration: none;
+  color: #A66CFF;
+}
